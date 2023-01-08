@@ -1,0 +1,79 @@
+﻿//create 600x800 window for bar graph
+
+
+//create revenue.txt file with store revenue data
+
+
+//read in store revenue data from revenue.txt file
+
+
+//define variables to set attributes of all bar rectangles
+
+
+//set position and size of the x axis
+
+
+//set position and size of the y axis
+
+
+//set position attributes of store 1's revenue bar
+
+
+//create store 1 bar graph rectangle
+
+
+//set position attributes of store 2's revenue bar
+
+
+//create store 2 bar graph rectangle
+
+
+//set position attributes of store 3's revenue bar
+
+
+//create store 3 bar graph rectangle
+
+
+//set position attributes of store 4's revenue bar
+
+
+//create store 4 bar graph rectangle
+
+
+//set position attributes of store 5's revenue bar
+
+
+//create store 5 bar graph rectangle
+
+
+//set position attributes of total revenue bar
+
+
+//create total revenue bar graph rectangle
+
+
+//download Courier New.ttf file from class assignment posting
+
+
+//create attributes for labels for all bars on bar chart using Courier New. Labels should lie below the x axis and lie directly below/be positioned aligning with the bar they label.
+
+
+//create label for store 1 revenue bar
+
+
+//create label for store 2 revenue bar
+
+
+//create label for store 3 revenue bar
+
+
+//create label for store 4 revenue bar
+
+
+//create label for store 5 revenue bar
+
+
+//create label for total store revenue bar
+
+
+//display all shapes and labels on graphic window
